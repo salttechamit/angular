@@ -1,0 +1,19 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Project demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng serve "
+  },
+  "author": "Amit The real youtuber",
+  "license": "ISC",
+  "devDependencies": {
+    "pm2": "^5.2.0",
+    "ws": "3.3.2"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pm2": "^5.2.0"
+  }
+}
