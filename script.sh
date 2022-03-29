@@ -11,7 +11,7 @@ npm install express --save
 sudo cp -r /home/ubuntu/jenkins/workspace/node job/index.js /home/ubuntu/demoProject/   #updaten the username
 
 sudo npm install -g pm2
-sudo pm2 -f start app.js
+sudo pm2 -f start index.js
 sudo pm2 status
 
 sudo apt-get install nginx -y
